@@ -1,11 +1,11 @@
-# 🔧 Predictive Maintenance — Machine Learning Project
+#  Predictive Maintenance
 
 This project focuses on building a Predictive Maintenance model that anticipates machine failure based on historical sensor and operational data.  
 It helps in optimizing maintenance schedules, reducing downtime, and improving operational efficiency.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To predict whether a machine will fail in the near future using:
 
@@ -14,7 +14,7 @@ To predict whether a machine will fail in the near future using:
 - Maintenance logs  
 - Failure types  
 
-## 🧪 Dataset Description
+##  Dataset Description
 
 | Feature | Description |
 |---------|-------------|
@@ -29,7 +29,7 @@ To predict whether a machine will fail in the near future using:
 
 ---
 
-## 🧼 Data Preprocessing Steps
+##  Data Preprocessing Steps
 
 ✔ Handling missing values  
 ✔ Feature encoding & scaling  
@@ -39,17 +39,17 @@ To predict whether a machine will fail in the near future using:
 
 ---
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 
 | Model | Purpose | Result |
 |--------|---------|---------|
-| Logistic Regression | Baseline classification | ✔ Moderate accuracy |
-| Random Forest | Feature importance + prediction | ⭐ Best performance |
-| XGBoost | Optimized failure prediction | 🚀 Highest accuracy |
+| Logistic Regression | Baseline classification |  Moderate accuracy |
+| Random Forest | Feature importance + prediction |  Best performance |
+| XGBoost | Optimized failure prediction |  Highest accuracy |
 
 ---
 
-## 📈 Model Evaluation Metrics
+##  Model Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -57,6 +57,7 @@ To predict whether a machine will fail in the near future using:
 - F1-score  
 - ROC–AUC Curve  
 - Confusion Matrix
+
 
 
 
